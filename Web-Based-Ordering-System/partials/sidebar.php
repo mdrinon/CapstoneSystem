@@ -47,6 +47,13 @@
             <span class="tooltip move-left" id="cart">Blog</span>
           </a>
         </li>
+        <li>
+          <a class="Sb-Btn" href="customize.php">
+            <img src="images/svg/modification.png" class="sb-svg" alt="">
+            <span class="sb-menu" id="cart">Create Order</span>
+            <span class="tooltip move-left" id="cart">Create Order</span>
+          </a>
+        </li>
       </ul>
    </div>
   </div>

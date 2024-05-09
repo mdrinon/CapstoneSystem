@@ -11,7 +11,7 @@
 
     <div class="bot">
       <div class="wrapper">
-        <button class="close-btn">X</button>
+        <button class="close-btn">×</button>
           <div class="title">chatbot</div>
           <div class="form">
             <div class="bot-inbox inbox">
